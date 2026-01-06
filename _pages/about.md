@@ -11,6 +11,7 @@ Welcome to my research site! Here you can read about my research, publications, 
 
 Research
 ======
+
 **Search for Color Transparency**
 ------
 <img src="/images/ct-pic.png" alt="color transparency" align="left" width="100"/> Jefferson's lab electron beam energy is well-suited for exploring Color Transparency phenomena, i.e. hadrons with quarks in a small, transverse size configuration that reduce their strong interactions in nuclei. Color Transparency lies at the cross roads between descriptions of the nucleus involving quarks and gluons and descriptions involving nucleon interactions.
