@@ -29,5 +29,5 @@ Research
 <img src="/images/epiclogo.png" alt="epic" align="left" width="100"/> ePIC is the next detector under development for the electron-ion collider which will lead the next frontier in nuclear physics at Brookhaven in the late 2030s. While the software supports the heart of the experiments, I support software efforts for new users of the international community who will develop and contribute to these efforts. See our [landing page](https://eic.github.io/documentation/landingpage.html) to join. 
 
 **[FIU nuclear group](https://fiu-nuclear-group.github.io/)**
-<img src="/images/fiulogo.png" alt="fiu" width="100"/>
 ------
+<img src="/images/fiulogo.png" alt="fiu" width="100"/>
