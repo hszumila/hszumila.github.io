@@ -28,6 +28,6 @@ Research
 ------
 <img src="/images/epiclogo.png" alt="epic" align="left" width="100"/> ePIC is the next detector under development for the electron-ion collider which will lead the future frontier in nuclear physics at Brookhaven in the late 2030s. I serve as the Deptuy of Operations for ePIC Software development. Software supports the heart of experiments, and I support the initiatives of Production, User Learning, and Validation for an international community user developers. See our [landing page](https://eic.github.io/documentation/landingpage.html) to join. 
 
-**[FIU nuclear group](https://fiu-nuclear-group.github.io/)**
+**[ODU nuclear group](https://ww2.odu.edu/%7Eskuhn/NucWebsite/ODUExperimentalNuclearPhysicsGroup.html)**
 ------
-<img src="/images/fiulogo.png" alt="fiu" width="100"/>
+<img src="/images/odulogo.png" alt="fiu" width="100"/>
